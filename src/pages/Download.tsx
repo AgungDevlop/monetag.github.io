@@ -1,4 +1,3 @@
-import { useEffect } from 'react';
 import { FaDownload } from 'react-icons/fa';
 
 export function Download() {
